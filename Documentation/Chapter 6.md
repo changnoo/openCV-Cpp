@@ -46,3 +46,6 @@ int main()
 
 }
 ```
+When we are trying to detect colours, we often convert the image into an HSV file, meaning Hue, Saturation and Value file. It is done by converting the image from original into HSV.
+
+The trackbar function lets us find the right amount of HSV to isolate a colour we are trying to detect. Solid and distinct colours typically are easy to detect because the colours in each object don't vary. However, if an object is of multiple colours, and gradient, it is much more difficult to isolate using this method.
