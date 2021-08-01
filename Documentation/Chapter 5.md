@@ -38,3 +38,5 @@ The for loop is for colouring the edges that we picked for warping to illustrate
 The result is as shown below
 ![cards](https://user-images.githubusercontent.com/56273897/127758175-290db5b6-c2af-4e3c-b41d-404d95423186.PNG)
 
+It is cool to think that algorithms like the ones I used have been used to create scanner app and many other application. Technology is truly indistinguishable from magic at a high level.
+
