@@ -34,4 +34,7 @@ Using warpPerspective function, we warp the original image to another matrix, an
 
 The for loop is for colouring the edges that we picked for warping to illustrate which points we have taken.
 
+## Result
+The result is as shown below
+![cards](https://user-images.githubusercontent.com/56273897/127758175-290db5b6-c2af-4e3c-b41d-404d95423186.PNG)
 
